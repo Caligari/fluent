@@ -1,9 +1,0 @@
-
-[
- "{" "}"
-"{\"" "\"}"
-] @punctuation.bracket
-
-[
- "="
-] @operator
