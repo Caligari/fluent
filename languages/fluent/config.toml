@@ -1,0 +1,8 @@
+name = "fluent"
+grammar = "fluent"
+path_suffixes = ["ftl"]
+line_comments = ["#"]
+brackets = [
+    { start = "{", end = "}", close = true, newline = false },
+    { start = "{\"", end = "\"}]", close = true, newline = false },
+]

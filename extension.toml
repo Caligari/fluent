@@ -6,6 +6,6 @@ authors = ["Liam Routt <liam@routt.net>"]
 description = "Zed Extension for fluent"
 repository = "https://github.com/Caligari/fluent"
 
-[grammars.cypher]
+[grammars.fluent]
 repository = "https://github.com/projectfluent/tree-sitter-fluent"
 commit = "9f0d60a542f210ce9c03ae8872f93e73b5a31740"
